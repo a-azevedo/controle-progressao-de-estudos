@@ -1,6 +1,6 @@
-Data       | Curso                    | Bootcamp                   | Situação   
-14/02/2022 | Pensamento computacional | Sportheca Mobile Developer | Em curso
-15/02/2022 | Pensamento computacional | Sportheca Mobile Developer | Concluído
-16/02/2022 |
-17/02/2022 |
-18/02/2022 |
+Data       | Curso                                     | Bootcamp                   | Situação   
+14/02/2022 | Pensamento computacional                  | Sportheca Mobile Developer | Em curso
+15/02/2022 | Pensamento computacional                  | Sportheca Mobile Developer | Concluído
+16/02/2022 | Dominando IDE's Java                      | Sportheca Mobile Developer | Concluído
+16/02/2022 | Estrutura de dados em Java: Introdução    | Sportheca Mobile Developer | Concluído
+17/02/2022 | Estrutura de dados em Java: Pilhas e Filas| Sportheca Mobile Developer | Em curso
